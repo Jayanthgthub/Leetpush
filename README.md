@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jayanthgthub/Leetpush/tree/master/0014-longest-common-prefix) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jayanthgthub/Leetpush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -34,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jayanthgthub/Leetpush/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Jayanthgthub/Leetpush/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jayanthgthub/Leetpush/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
