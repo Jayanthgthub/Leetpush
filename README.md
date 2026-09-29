@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jayanthgthub/Leetpush/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Jayanthgthub/Leetpush/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Jayanthgthub/Leetpush/tree/master/0326-power-of-three) |
 | [2413-smallest-even-multiple](https://github.com/Jayanthgthub/Leetpush/tree/master/2413-smallest-even-multiple) |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jayanthgthub/Leetpush/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jayanthgthub/Leetpush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jayanthgthub/Leetpush/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -96,4 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
