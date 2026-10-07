@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jayanthgthub/Leetpush/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Jayanthgthub/Leetpush/tree/master/0717-1-bit-and-2-bit-characters) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jayanthgthub/Leetpush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
