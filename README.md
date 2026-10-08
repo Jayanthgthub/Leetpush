@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Jayanthgthub/Leetpush/tree/master/0326-power-of-three) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jayanthgthub/Leetpush/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jayanthgthub/Leetpush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Jayanthgthub/Leetpush/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Jayanthgthub/Leetpush/tree/master/0344-reverse-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jayanthgthub/Leetpush/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jayanthgthub/Leetpush/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/0338-counting-bits) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jayanthgthub/Leetpush/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
