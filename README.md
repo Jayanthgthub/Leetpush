@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jayanthgthub/Leetpush/tree/master/0717-1-bit-and-2-bit-characters) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jayanthgthub/Leetpush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Jayanthgthub/Leetpush/tree/master/0461-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/Jayanthgthub/Leetpush/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Jayanthgthub/Leetpush/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Jayanthgthub/Leetpush/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Binary Search
 |  |
