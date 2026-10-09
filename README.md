@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Jayanthgthub/Leetpush/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Jayanthgthub/Leetpush/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jayanthgthub/Leetpush/tree/master/0717-1-bit-and-2-bit-characters) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jayanthgthub/Leetpush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jayanthgthub/Leetpush/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 ## String
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
@@ -143,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jayanthgthub/Leetpush/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
