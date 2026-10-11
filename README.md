@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Jayanthgthub/Leetpush/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Jayanthgthub/Leetpush/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Jayanthgthub/Leetpush/tree/master/0342-power-of-four) |
 | [2413-smallest-even-multiple](https://github.com/Jayanthgthub/Leetpush/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jayanthgthub/Leetpush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Jayanthgthub/Leetpush/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jayanthgthub/Leetpush/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Jayanthgthub/Leetpush/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jayanthgthub/Leetpush/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jayanthgthub/Leetpush/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Jayanthgthub/Leetpush/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Jayanthgthub/Leetpush/tree/master/0461-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/Jayanthgthub/Leetpush/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Jayanthgthub/Leetpush/tree/master/2220-minimum-bit-flips-to-convert-number) |
