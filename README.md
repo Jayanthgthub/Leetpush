@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Jayanthgthub/Leetpush/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jayanthgthub/Leetpush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Jayanthgthub/Leetpush/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Jayanthgthub/Leetpush/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Jayanthgthub/Leetpush/tree/master/0389-find-the-difference) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jayanthgthub/Leetpush/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jayanthgthub/Leetpush/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Jayanthgthub/Leetpush/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Jayanthgthub/Leetpush/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Jayanthgthub/Leetpush/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Jayanthgthub/Leetpush/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Jayanthgthub/Leetpush/tree/master/1009-complement-of-base-10-integer) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Jayanthgthub/Leetpush/tree/master/0389-find-the-difference) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
