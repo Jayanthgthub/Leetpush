@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jayanthgthub/Leetpush/tree/master/0717-1-bit-and-2-bit-characters) |
+| [1480-running-sum-of-1d-array](https://github.com/Jayanthgthub/Leetpush/tree/master/1480-running-sum-of-1d-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jayanthgthub/Leetpush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Jayanthgthub/Leetpush/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
