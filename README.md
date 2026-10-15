@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Jayanthgthub/Leetpush/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Jayanthgthub/Leetpush/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Jayanthgthub/Leetpush/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Jayanthgthub/Leetpush/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Binary Search
