@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jayanthgthub/Leetpush/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Jayanthgthub/Leetpush/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Jayanthgthub/Leetpush/tree/master/1732-find-the-highest-altitude) |
+| [2090-k-radius-subarray-averages](https://github.com/Jayanthgthub/Leetpush/tree/master/2090-k-radius-subarray-averages) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Jayanthgthub/Leetpush/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/Jayanthgthub/Leetpush/tree/master/2574-left-and-right-sum-differences) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Jayanthgthub/Leetpush/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [2090-k-radius-subarray-averages](https://github.com/Jayanthgthub/Leetpush/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
