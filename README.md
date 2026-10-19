@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jayanthgthub/Leetpush/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Jayanthgthub/Leetpush/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Jayanthgthub/Leetpush/tree/master/1732-find-the-highest-altitude) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jayanthgthub/Leetpush/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Jayanthgthub/Leetpush/tree/master/2090-k-radius-subarray-averages) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Jayanthgthub/Leetpush/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/Jayanthgthub/Leetpush/tree/master/2574-left-and-right-sum-differences) |
@@ -145,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Jayanthgthub/Leetpush/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jayanthgthub/Leetpush/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jayanthgthub/Leetpush/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Jayanthgthub/Leetpush/tree/master/0389-find-the-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jayanthgthub/Leetpush/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
