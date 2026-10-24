@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Jayanthgthub/Leetpush/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Jayanthgthub/Leetpush/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jayanthgthub/Leetpush/tree/master/0342-power-of-four) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jayanthgthub/Leetpush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Jayanthgthub/Leetpush/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/Jayanthgthub/Leetpush/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jayanthgthub/Leetpush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jayanthgthub/Leetpush/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Jayanthgthub/Leetpush/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Jayanthgthub/Leetpush/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jayanthgthub/Leetpush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Jayanthgthub/Leetpush/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Jayanthgthub/Leetpush/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jayanthgthub/Leetpush/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Jayanthgthub/Leetpush/tree/master/0338-counting-bits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jayanthgthub/Leetpush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jayanthgthub/Leetpush/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Jayanthgthub/Leetpush/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Jayanthgthub/Leetpush/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jayanthgthub/Leetpush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Jayanthgthub/Leetpush/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Jayanthgthub/Leetpush/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/Jayanthgthub/Leetpush/tree/master/2270-number-of-ways-to-split-array) |
