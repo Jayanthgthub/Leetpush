@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Jayanthgthub/Leetpush/tree/master/0342-power-of-four) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jayanthgthub/Leetpush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Jayanthgthub/Leetpush/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2409-count-days-spent-together](https://github.com/Jayanthgthub/Leetpush/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Jayanthgthub/Leetpush/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jayanthgthub/Leetpush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Jayanthgthub/Leetpush/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jayanthgthub/Leetpush/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jayanthgthub/Leetpush/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Jayanthgthub/Leetpush/tree/master/2409-count-days-spent-together) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Jayanthgthub/Leetpush/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
