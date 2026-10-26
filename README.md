@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Jayanthgthub/Leetpush/tree/master/0303-range-sum-query-immutable) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jayanthgthub/Leetpush/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Jayanthgthub/Leetpush/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Jayanthgthub/Leetpush/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Jayanthgthub/Leetpush/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jayanthgthub/Leetpush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Jayanthgthub/Leetpush/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Jayanthgthub/Leetpush/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Jayanthgthub/Leetpush/tree/master/0389-find-the-difference) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Jayanthgthub/Leetpush/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Jayanthgthub/Leetpush/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Jayanthgthub/Leetpush/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Jayanthgthub/Leetpush/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Jayanthgthub/Leetpush/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Jayanthgthub/Leetpush/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jayanthgthub/Leetpush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
